@@ -1,4 +1,4 @@
-######This is a preseed file for ubuntu installation in SATURN SYSTEMS
+######This is a preseed file for ubuntu installation 
 #####<Author:RAJESH RAJENDRAN>
 
 d-i debian-installer/locale string en_IN
